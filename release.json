@@ -31,10 +31,10 @@
 
   {
     "id": "reportVoice2",
-    "name": "解锁所有语音",
-    "version": "0.0.1",
-    "author": ["Majsoul plus team"],
-    "description": "解锁所有语音",
+    "name": "解锁所有语音2",
+    "version": "0.0.2",
+    "author": ["Majsoul plus team2"],
+    "description": "解锁所有语音2",
     "preview": "preview.jpg",
     "homepage":"https://github.com/majsoul-ur/reportVoice.git"
     }
