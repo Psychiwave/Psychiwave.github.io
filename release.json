@@ -27,5 +27,16 @@
     "description": "解锁所有语音",
     "preview": "preview.jpg",
     "homepage":"https://github.com/Psychiwave/reportVoice.git"
+    },
+
+  {
+    "id": "reportVoice2",
+    "name": "解锁所有语音",
+    "version": "0.0.1",
+    "author": ["Majsoul plus team"],
+    "description": "解锁所有语音",
+    "preview": "preview.jpg",
+    "homepage":"https://github.com/majsoul-ur/reportVoice.git"
     }
+    
 ]
